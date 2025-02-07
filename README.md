@@ -1,1 +1,4 @@
 # CIV3X
+CIV3X is a novel government transparency tool designed to foster accountability and ensure legal compliance without engaging in manipulative or unethical practices. By utilizing blockchain technology and advanced machine learning models, CIV3X offers an open-source, decentralized platform that tracks public government actions, analyzes spending patterns, and verifies political claims in a fact-based manner. Unlike traditional systems prone to manipulative voter targeting or data privacy violations, CIV3X operates with the core values of transparency, public trust, and ethical AI. This paper explores the architecture, implementation, and potential impact of CIV3X as a government transparency engine, emphasizing the system’s open-source nature hosted on GitHub and operating on a dedicated CIV3X server for maximum reliability and security. 
+
+PROJECT IN PRE-LAUNCH
